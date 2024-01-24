@@ -7,6 +7,7 @@ Listado de empresas tecnológicas chilenas que ofrecen prácticas profesionales 
 - [Fintual](https://fin.fintual.com/)
 - [Leniolabs](https://nerdearla.leniolabs.com/bootcamp/)
 - [Globant](https://more.globant.com/es/code-your-future-latam-edition)
+- [42Labs](https://42labs.cl/trainee-42labs/)
 
 ## Portales de búsqueda:
 - [GetOnBrd - Práctica](https://www.getonbrd.com/jobs-practica)
